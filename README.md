@@ -115,4 +115,6 @@ Building the project offers security and customization.
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  16.06.2025 05:37
+
+
+Update: Updated cloud provider reference URLs
